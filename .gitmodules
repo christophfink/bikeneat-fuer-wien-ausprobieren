@@ -1,0 +1,3 @@
+[submodule "bikeneat"]
+	path = bikeneat
+	url = https://github.com/christophfink/bikeneat.git
